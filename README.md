@@ -17,13 +17,21 @@ Python, Pandas, Matplotlib, Seaborn
 2. Data preparation: check for duplicates, missing values, data types, rename columns
 3. Data analysis: 
   -Calculate how many people use it each day, week, and month
+   
   -Calculate how many sessions occur per day
+  
   -Calculate the duration of each session
+  
   -Calculate how frequently users return
+  
   -Determine when people start making purchases
+  
   -Determine the average purchase size
+  
   -Calculate the Customer Lifetime Value (LTV)
+  
   -Determine the customer acquisition cost from each source
+  
   -Calculate how profitable the investments were (ROMI)
 
 
